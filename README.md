@@ -8,4 +8,4 @@ This project is a simple web application that demonstrates the use of Git and Gi
 - Real-time updates with WebSocket integration
 - Responsive design optimized for mobile and desktop
 
-This project serves as a learning tool for using Git and GitHub effectively in a team-based development workflow.
+This project serves as a learning tool for using Git and GitHub effectively in a teambased development workflow.
